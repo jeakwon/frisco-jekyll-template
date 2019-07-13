@@ -2,7 +2,7 @@
 # Site
 
 title: Frisco Template
-url: "http://jeakwon.github.io/"
+url: "http://jeakwon.github.io"
 baseurl: "/frisco-jekyll-template"
 google_analytics_key:
 google_maps_javascript_api_key:
